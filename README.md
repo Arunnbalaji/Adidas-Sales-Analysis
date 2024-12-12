@@ -5,7 +5,7 @@ This project presents a comprehensive analysis of Adidas's US sales data using P
 The goal of this project is to analyze Adidas's US sales data across multiple dimensions such as product categories, regions, and time periods. The dashboard answers critical business questions and highlights areas for improvement, enabling better decision-making.
 
 ## Dataset Used
-Adidas US Sales Dataset - LINK 
+Adidas US Sales Dataset - https://github.com/Arunnbalaji/Adidas-Sales-Analysis/blob/main/Adidas%20US%20Sales%20Datasets.xlsx
 
 Source: Adidas US Sales dataset provided as part of this analysis.
 Key Columns:
@@ -26,6 +26,7 @@ Sales Method: Distribution channel (e.g., In-store).
 5. Margin Analysis:  Evaluate the average margin to understand the overall profitability of sales.
 
 ## Dashboard Interaction
+My dashboard - https://github.com/Arunnbalaji/Adidas-Sales-Analysis/blob/main/Adidas%20Sales%20Insights.pbix
 Interactive Filters:
 Slicers for filtering by region, time, and product categories.
 Drill-Downs:
@@ -34,8 +35,6 @@ Visualization Types:
 Bar charts, line graphs, and pie charts for visualizing sales metrics.
 Dynamic Insights:
 Hover-over tooltips for additional data points.
-
-My dashboard - LINK
 
 ## Process Overview 
 Data Preparation:
@@ -48,7 +47,7 @@ Analysis:
 Generated insights for business strategies based on trends and KPIs.
 
 ## Screenshot
-Dashboard Overview - 
+Dashboard Overview - https://github.com/Arunnbalaji/Adidas-Sales-Analysis/blob/main/Adidas%20Sales%20Project%20Dashboard.png
 
 ## Final Conclusion
 The Adidas US Sales Insights Dashboard provides a comprehensive view of sales performance across regions, products, and time. Key insights include top-performing products, regional sales trends, and profitability metrics, enabling data-driven decisions. The interactive dashboard empowers stakeholders to explore critical KPIs and identify growth opportunities. By leveraging Excel for data preparation and Power BI for visualization, this project demonstrates the power of analytics in optimizing business strategies. It offers a scalable solution for monitoring sales and improving operational efficiency.
